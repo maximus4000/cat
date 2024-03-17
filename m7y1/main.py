@@ -93,4 +93,4 @@ async def predict(ctx):
     elif indx == 3:
         await ctx.send("Это Бурма!")
 
-bot.run("MTE1NTQ0MzI4ODA5NTA4MDQ3OA.G7ZmZT.qPmIUxz6EABFGJf2GmfowRiZxtSSh3goMHtl14")
+bot.run("Token")
